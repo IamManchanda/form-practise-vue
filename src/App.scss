@@ -1,0 +1,10 @@
+/**
+ * Vue Styles
+ */
+
+.separator-center {
+  margin-bottom: 1.4rem;
+  &::after {
+    margin: 0.7rem auto 0;
+  }
+}
